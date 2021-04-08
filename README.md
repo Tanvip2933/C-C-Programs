@@ -1,3 +1,3 @@
 # C-C-Programs
 
-Helps one to solve the competetaive programs from the beginning
+Helps one to solve the competetive programs from the beginning
